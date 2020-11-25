@@ -1,1 +1,1 @@
-This file is a Rock, Paper, Scissors game programming in Java created for my programming 12 class. Enjoy!
+This file is a Rock, Paper, Scissors game programming in Java and allows you to play rock, paper, scissors with the computer. Enjoy!
