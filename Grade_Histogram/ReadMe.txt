@@ -1,1 +1,1 @@
-This program is a grade histogram coded in JAVA for my programming 12 class. Enjoy!
+This program is a grade histogram coded in JAVA and records grade frequency in a histrogram. Enjoy!
