@@ -1,4 +1,4 @@
-This program was created in JAVA for my Programming 12 class as the Final Project.
+This program was created in Java.
 
 This is a fully working console Blackjack game. This game was built completely from scratch and includes the following six features:
 
